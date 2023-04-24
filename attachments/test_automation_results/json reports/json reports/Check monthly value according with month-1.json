@@ -1,0 +1,71 @@
+{
+  "name": "Check monthly value according with month -- @1.1 ",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "Given the user is on the saving goal page",
+      "status": "passed",
+      "start": 1682357669673,
+      "stop": 1682357680746
+    },
+    {
+      "name": "Given the \"total amount\" field value is \"1,000.00\"",
+      "status": "passed",
+      "start": 1682357680750,
+      "stop": 1682357685984
+    },
+    {
+      "name": "When the month on \"reach goal by\" component is the \"current month\"",
+      "status": "passed",
+      "start": 1682357685987,
+      "stop": 1682357685989
+    },
+    {
+      "name": "Then the \"monthly amount\" field value is \"1,000.00\"",
+      "status": "passed",
+      "start": 1682357685990,
+      "stop": 1682357691068
+    }
+  ],
+  "parameters": [
+    {
+      "name": "total amount equal to",
+      "value": "1,000.00"
+    },
+    {
+      "name": "month",
+      "value": "current month"
+    },
+    {
+      "name": "monthly amount equal to",
+      "value": "1,000.00"
+    }
+  ],
+  "start": 1682357669669,
+  "stop": 1682357691069,
+  "uuid": "960e1835-96fd-455d-a9f3-91478181384d",
+  "historyId": "115fcce1912b3b92f29b1d2712c87c16",
+  "fullName": "Monthly amount component: Check monthly value according with month",
+  "labels": [
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "tag",
+      "value": "automated"
+    },
+    {
+      "name": "feature",
+      "value": "Monthly amount component"
+    },
+    {
+      "name": "framework",
+      "value": "behave"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    }
+  ]
+}

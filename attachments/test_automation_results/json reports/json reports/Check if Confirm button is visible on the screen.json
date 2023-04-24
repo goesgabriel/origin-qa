@@ -1,0 +1,45 @@
+{
+  "name": "Check if Confirm button is visible on the screen",
+  "status": "passed",
+  "steps": [
+    {
+      "name": "Given the user is on the saving goal page",
+      "status": "passed",
+      "start": 1682357409008,
+      "stop": 1682357419912
+    },
+    {
+      "name": "Then the confirm button should be visible on the screen",
+      "status": "passed",
+      "start": 1682357419912,
+      "stop": 1682357419972
+    }
+  ],
+  "start": 1682357409006,
+  "stop": 1682357419973,
+  "uuid": "27606cbc-fafc-4022-a5c0-e63676d49b01",
+  "historyId": "c150ba6ce4983bcdded24dbab61374fe",
+  "fullName": "Confirm Button: Check if Confirm button is visible on the screen",
+  "labels": [
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "tag",
+      "value": "automated"
+    },
+    {
+      "name": "feature",
+      "value": "Confirm Button"
+    },
+    {
+      "name": "framework",
+      "value": "behave"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    }
+  ]
+}
