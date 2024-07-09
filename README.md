@@ -133,7 +133,3 @@ You can install the dependencies using pip:
 ```bash
 pip install behave selenium
 ```
-
----
-
-This README provides an overview of the project, its structure, features, and detailed instructions for running the tests, including using tags with Behave. If you have any additional details or specific requirements, please let me know!
