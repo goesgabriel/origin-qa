@@ -1,6 +1,4 @@
-Sure! Here's an updated README with instructions on how to run tests using Behave tags:
 
----
 
 # Saving Goal Automation Project
 
